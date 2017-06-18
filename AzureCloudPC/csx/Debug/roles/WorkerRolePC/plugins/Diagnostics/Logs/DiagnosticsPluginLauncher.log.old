@@ -1,0 +1,15 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [6/18/2017 12:53:06 PM] Emulator config file set to C:\Users\carloshsteles\Documents\Visual Studio 2017\Projects\AzureCloudPC\AzureCloudPC\csx\Debug\roles\WorkerRolePC\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/18/2017 12:53:06 PM] DiagnosticsStoreRootPath set to: C:\Users\carloshsteles\AppData\Local\dftmp\Resources\2b5931d0-2999-4269-ad61-f167f2c5a97f
+DiagnosticsPluginLauncher.exe Information: 0 : [6/18/2017 12:53:06 PM] Loading config file: C:\Users\carloshsteles\Documents\Visual Studio 2017\Projects\AzureCloudPC\AzureCloudPC\csx\Debug\roles\WorkerRolePC\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/18/2017 12:53:06 PM] Config file to read: C:\Users\carloshsteles\Documents\Visual Studio 2017\Projects\AzureCloudPC\AzureCloudPC\csx\Debug\roles\WorkerRolePC\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/18/2017 12:53:06 PM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [6/18/2017 12:53:06 PM] Emulator config file set to C:\Users\carloshsteles\Documents\Visual Studio 2017\Projects\AzureCloudPC\AzureCloudPC\csx\Debug\roles\WorkerRolePC\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/18/2017 12:53:06 PM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [6/18/2017 12:53:06 PM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [6/18/2017 12:53:06 PM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [6/18/2017 12:53:06 PM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [6/18/2017 12:53:06 PM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [6/18/2017 12:53:06 PM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [6/18/2017 12:53:06 PM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [6/18/2017 12:53:06 PM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [6/18/2017 12:53:06 PM] Resetting DiagnosticPlugin

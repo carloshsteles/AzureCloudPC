@@ -1,0 +1,3 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [6/18/2017 12:54:07 PM] Emulator config file set to C:\Users\carloshsteles\Documents\Visual Studio 2017\Projects\AzureCloudPC\AzureCloudPC\csx\Debug\roles\WorkerRolePC\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/18/2017 12:54:07 PM] DiagnosticsStoreRootPath set to: C:\Users\carloshsteles\AppData\Local\dftmp\Resources\2b5931d0-2999-4269-ad61-f167f2c5a97f
+DiagnosticsPluginLauncher.exe Information: 0 : [6/18/2017 12:54:07 PM] Loading config file: C:\Users\carloshsteles\Documents\Visual Studio 2017\Projects\AzureCloudPC\AzureCloudPC\csx\Debug\roles\WorkerRolePC\approot\diagnostics.wadcfgx
